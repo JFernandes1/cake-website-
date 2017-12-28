@@ -1,0 +1,122 @@
+#title{
+    margin-top: 10px;
+    margin-left: 30%; 
+    margin-right: auto;
+    position: fixed;
+}
+
+#big1{
+    position: fixed;
+    height: 20%; 
+    top: 72%; 
+    left: 2%;
+    z-index: 10;
+    -webkit-animation-duration: 8s;
+    -moz-animation-duration: 8;
+    -ms-transition-animation-duration: 10s;
+    /*-webkit-animation-iteration-count: infinite;*/
+}
+
+#big2{
+    position: fixed;
+    height: 20%; 
+    bottom: 23%; 
+    margin-left: 25%;
+    z-index: 10;
+    -webkit-animation-duration: 6s;
+    -moz-animation-duration: 6;
+    -ms-transition-animation-duration: 10s;
+   /* -webkit-animation-iteration-count: infinite;*/
+}
+
+#big3{
+    position: fixed;
+    height: 20%; 
+    bottom: 55%; 
+    margin-left: 50.5%;
+    z-index: 10;
+    -webkit-animation-duration: 4s;
+    -moz-animation-duration: 4;
+    -ms-transition-animation-duration: 10s;
+    /*-webkit-animation-iteration-count: infinite;*/
+}
+
+
+#big4{
+    position: fixed;
+    height: 20%; 
+    bottom: 28%; 
+    margin-left: 75%;
+    z-index: 10;
+    -webkit-animation-duration: 2s;
+    -moz-animation-duration: 2;
+    -ms-transition-animation-duration: 2s;
+}
+
+#line4{
+    top: 0;
+    margin-left: 29%;
+    position: fixed;
+    z-index: 5;
+}
+
+#line2{
+    top: -7%;
+    margin-left: 4%;
+    position: fixed;
+    z-index: 5;
+}
+
+#line3{
+    top: 0;
+    margin-left: 75%;
+    position: fixed;
+    z-index: 5;
+}
+
+#line1{
+    top: 0;
+    margin-left: 55%;
+    position: fixed;
+    z-index: 5;
+}
+
+#moving-spots{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#about-title{
+    position: absolute;
+    top: 150%;
+    left: 47%;
+    height: 10%;
+}
+
+#about-para{
+    top: 163%;
+    left: 43%;
+    position: absolute;
+    width: 30%; 
+}
+
+p{
+    font-family: 'Trocchi', serif;
+    color: #E6E6E6;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+
+.sphere{
+    height: 4%; 
+}
+
+.changeBig4{
+    bottom: 68%;
+}
+
+.changeLin4{
+    top: -40%; 
+}
